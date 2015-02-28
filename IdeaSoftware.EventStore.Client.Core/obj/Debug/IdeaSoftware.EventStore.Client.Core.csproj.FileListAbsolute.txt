@@ -1,6 +1,0 @@
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\bin\Debug\IdeaSoftware.EventStore.Client.Core.dll
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\bin\Debug\IdeaSoftware.EventStore.Client.Core.pdb
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\bin\Debug\EventStore.ClientAPI.dll
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\bin\Debug\EventStore.ClientAPI.xml
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\obj\Debug\IdeaSoftware.EventStore.Client.Core.dll
-P:\repos\IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core\obj\Debug\IdeaSoftware.EventStore.Client.Core.pdb
