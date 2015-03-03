@@ -8,7 +8,7 @@
     <description>Core components for EventStore client modules</description>
   </metadata>
   <files>
-    <file src="tools\Config.install.xdt" target="tools\App.Config.install.xdt" />
-    <file src="tools\Config.install.xdt" target="tools\Web.Config.install.xdt" />
+    <file src="nuget\tools\Config.install.xdt" target="tools\App.Config.install.xdt" />
+    <file src="nuget\tools\Config.install.xdt" target="tools\Web.Config.install.xdt" />
   </files>
 </package>
