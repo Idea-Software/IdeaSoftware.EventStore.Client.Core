@@ -47,7 +47,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="nuget\IdeaSoftware.EventStore.Client.Core.nuspec" />
+    <None Include="IdeaSoftware.EventStore.Client.Core.nuspec" />
     <None Include="packages.config" />
     <None Include="nuget\tools\Config.install.xdt" />
   </ItemGroup>
