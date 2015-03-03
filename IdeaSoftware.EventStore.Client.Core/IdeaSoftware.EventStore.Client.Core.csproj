@@ -49,7 +49,7 @@
   <ItemGroup>
     <None Include="IdeaSoftware.EventStore.Client.Core.nuspec" />
     <None Include="packages.config" />
-    <None Include="nuget\tools\Config.install.xdt" />
+    <None Include="nuget\Config.install.xdt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
