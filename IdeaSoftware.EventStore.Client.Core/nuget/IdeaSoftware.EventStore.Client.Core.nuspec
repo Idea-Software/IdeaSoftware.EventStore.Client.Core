@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>IdeaSoftware.EventStore.Client.Core</id>
+    <version>3.0.1.0</version>
+    <authors>IdeaSoftware</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core components for EventStore client modules</description>
+  </metadata>
+  <files>
+    <file src="tools\Config.install.xdt" target="tools\App.Config.install.xdt" />
+    <file src="tools\Config.install.xdt" target="tools\Web.Config.install.xdt" />
+  </files>
+</package>

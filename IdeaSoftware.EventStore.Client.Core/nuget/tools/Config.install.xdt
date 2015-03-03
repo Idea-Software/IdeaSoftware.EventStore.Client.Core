@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings xdt:Transform="InsertIfMissing">
+      <add name="ES:ConnectionString" connectionString="ip=127.0.0.1;tcp-port=2118;http-port=2119;user=admin;password=changeit" 
+           xdt:Locator="Match(key)" xdt:Transform="InsertIfMissing" />
+  </connectionStrings>
+</configuration>
