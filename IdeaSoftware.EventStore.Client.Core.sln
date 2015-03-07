@@ -1,11 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.22310.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaSoftware.EventStore.Client.Core", "IdeaSoftware.EventStore.Client.Core\IdeaSoftware.EventStore.Client.Core.csproj", "{FAEC256D-A0D4-4A89-8C14-66CB244A4178}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaSoftware.EventStore.Client.Core.Tests", "IdeaSoftware.EventStore.Client.Core.Tests\IdeaSoftware.EventStore.Client.Core.Tests.csproj", "{6A9BA801-9F19-4192-AB35-92D7AE74A58B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DFB8D39B-0604-455E-BBDC-A415481BE9E4}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

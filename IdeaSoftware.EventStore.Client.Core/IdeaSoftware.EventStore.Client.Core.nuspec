@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>IdeaSoftware.EventStore.Client.Core</id>
-    <version>3.0.1.0</version>
+    <version>3.0.1</version>
     <authors>IdeaSoftware</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Core components for EventStore client modules</description>
@@ -10,5 +10,6 @@
   <files>
     <file src="nuget\Config.install.xdt" target="content\App.config.install.xdt" />
     <file src="nuget\Config.install.xdt" target="content\Web.config.install.xdt" />
+    <file src="bin\Release\IdeaSoftware.EventStore.Client.Core.dll" target="lib\net45\Web.IdeaSoftware.EventStore.Client.Core.dll" />
   </files>
 </package>
