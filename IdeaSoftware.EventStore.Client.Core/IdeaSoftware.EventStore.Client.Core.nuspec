@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>IdeaSoftware.EventStore.Client.Core</id>
-    <version>3.0.1</version>
+    <version>301.1.1</version>
     <authors>IdeaSoftware</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Core components for EventStore client modules</description>
