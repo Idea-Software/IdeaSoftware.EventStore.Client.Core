@@ -3,7 +3,7 @@ using System.Configuration;
 using NUnit.Framework;
 using IdeaSoftware.EventStore.Client.Core;
 
-namespace Ingenie.EventStore.Client.Tests
+namespace IdeaSoftware.EventStore.Client.Core.Tests
 {
     [TestFixture]
     public class ConfigShould
