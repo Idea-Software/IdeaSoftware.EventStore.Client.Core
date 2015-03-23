@@ -10,6 +10,6 @@
   <files>
     <file src="nuget\Config.install.xdt" target="content\App.config.install.xdt" />
     <file src="nuget\Config.install.xdt" target="content\Web.config.install.xdt" />
-    <file src="bin\Release\IdeaSoftware.EventStore.Client.Core.dll" target="lib\net45\Web.IdeaSoftware.EventStore.Client.Core.dll" />
+    <file src="bin\Release\IdeaSoftware.EventStore.Client.Core.dll" target="lib\net40\Web.IdeaSoftware.EventStore.Client.Core.dll" />
   </files>
 </package>
